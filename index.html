@@ -7,17 +7,17 @@
   <meta name="CocoaVersion" content="2022.7">
   <style type="text/css">
     body {background-color: #18181b}
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 60.0px 'Microsoft Sans Serif'; color: #ffffff; -webkit-text-stroke: #2d2e32}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 24.0px 'Microsoft Sans Serif'; color: #2d2e32; -webkit-text-stroke: #2d2e32}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Microsoft Sans Serif'; color: #2d2e32; -webkit-text-stroke: #2d2e32}
-    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #2d2e32; -webkit-text-stroke: #1d1c13}
-    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #ffffff; -webkit-text-stroke: #2d2e32}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #2d2e32; -webkit-text-stroke: #2d2e32}
-    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #2d2e32; -webkit-text-stroke: #2d2e32}
-    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #2e2e2e; -webkit-text-stroke: #2d2e32}
-    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #2d2e32; -webkit-text-stroke: #2d2e32}
-    p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #2d2e32; -webkit-text-stroke: #2d2e32}
-    p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; font: 36.0px 'Microsoft Sans Serif'; color: #ffffff; -webkit-text-stroke: #2d2e32}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 60.0px 'Microsoft Sans Serif'; color: #ffffff; -webkit-text-stroke: #4c4d52}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 24.0px 'Microsoft Sans Serif'; color: #4c4d52; -webkit-text-stroke: #4c4d52}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Microsoft Sans Serif'; color: #4c4d52; -webkit-text-stroke: #4c4d52}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #4c4d52; -webkit-text-stroke: #1d1c13}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #ffffff; -webkit-text-stroke: #4c4d52}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #4c4d52; -webkit-text-stroke: #4c4d52}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #4c4d52; -webkit-text-stroke: #4c4d52}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #2e2e2e; -webkit-text-stroke: #4c4d52}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #4c4d52; -webkit-text-stroke: #4c4d52}
+    p.p10 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px 'Microsoft Sans Serif'; color: #4c4d52; -webkit-text-stroke: #4c4d52}
+    p.p11 {margin: 0.0px 0.0px 0.0px 0.0px; font: 36.0px 'Microsoft Sans Serif'; color: #ffffff; -webkit-text-stroke: #4c4d52}
     span.s1 {font-kerning: none; text-shadow: 3.0px 3.0px 0.0px rgba(255, 255, 255, 0.33)}
     span.s2 {font-kerning: none}
     span.s3 {text-decoration: underline ; font-kerning: none}
